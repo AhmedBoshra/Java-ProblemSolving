@@ -1,5 +1,4 @@
-package HackerRank.OOP;
+package OOP;
 
 public class InheritanceI {
-
 }
